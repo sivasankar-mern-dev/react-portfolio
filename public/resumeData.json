@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name": "Siva Sankar",
+    "occupation": "<Web Developer />",
+    "description": "lover of code, coffee and lack of sleep",
+    "image": "profile-pic.png",
+    "bio": "My name is Siva Sankar. I'm currently working as a Web Developer at Destinex Education. I'll Design and Develop Websites as Per the Client Requirements.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/siva-sankar-090998/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/spookysiva",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Kalasalingam Academy of Research and Education",
+        "degree": "B.Sc (Computer Science)",
+        "graduated": "May 2019",
+        "description": "Graduated with 65%"
+      }
+    ],
+    "work": [
+      {
+        "company": "Destinex Education",
+        "title": "Web Developer",
+        "years": "March 2020 - Present",
+        "description": "Creating and Maintaining Web Pages"
+      },
+      {
+        "company": "Design Esthetics",
+        "title": "WordPress Developer",
+        "years": "September 2019 - March 2020",
+        "description": "Developing Web Pages on WordPress"
+      },
+      {
+        "company": "Prowide Solutions",
+        "title": "WordPress Developer Intern",
+        "years": "June 2019 - September 2019",
+        "description": "Developing Web Pages on WordPress"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "85%",
+        "icon": "html5.svg"
+      },
+      {
+        "name": "CSS",
+        "level": "80%",
+        "icon": "css.png"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "85%",
+        "icon":"bootstrap-logo.jpg"
+      },
+      {
+        "name": "Javascript",
+        "level": "60%",
+        "icon": "javascript.jpg"
+      },
+      {
+        "name": "WordPress",
+        "level": "80%",
+        "icon": "wordpress.png"
+      },
+      {
+        "name": "PHP",
+        "level": "50%",
+        "icon": "php.png"
+      },
+      {
+        "name": "MySQL",
+        "level": "50%",
+        "icon": "mysql.png"
+      },
+      {
+        "name": "ReactJS",
+        "level": "30%",
+        "icon": "reactjs.png"
+      },
+      {
+        "name": "Git",
+        "level": "40%",
+        "icon": "git.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-19 Tracker",
+        "category": "Covid-19 Live Tracker with Map Feature",
+        "image": "covid-tracker.png",
+        "url": "https://covid-19-tracker-new.vercel.app/"
+      },
+      {
+        "title": "MBBS Admission in Abroad",
+        "category": "Educational Website Developed on WordPress",
+        "image": "mbbs-admission-wordpress-project.png",
+        "url": "https://www.mbbsadmissionsinabroad.com/"
+      },
+      {
+        "title": "NEET Test Tool",
+        "category": "NEET Test Tool Developed on WordPress ",
+        "image": "neet-test-tool-wordpress-project.png",
+        "url": "https://neettestseries.co.in/"
+      },
+      {
+        "title": "RBC Paramedical",
+        "category": "Educational Institute Website Developed on WordPress",
+        "image": "rbc-wordpress-project.png",
+        "url": "https://www.rbcparamedical.com/"
+      },
+      {
+        "title": "Trident Car Showroom",
+        "category": "Trident Car Showroom Website Developed using HTML, CSS, JavaScript",
+        "image": "Trident-hyundai-html-project.png",
+        "url": "https://www.tridenthyundai.com/"
+      }
+    ]
+  }
+}
