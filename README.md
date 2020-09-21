@@ -2,9 +2,6 @@
 
 <a href="https://siva-portfolio.netlify.app/">LIVE DEMO</a>
 
-## Description
-This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever 
-
 ## Make it Your Own!
 #### PREREQUISITES:
 - Sign up for a Netlify account <a href='https://www.netlify.com'>HERE</a>
